@@ -1,23 +1,12 @@
-// { "name":"Your_name",
-//     "hobby":"reading",
-//     "numList":[2,3,4,5,6,7,9]
-//   }
-// Convert above key-value pair into a GEE Dictionary object. Get the numList from the dictionary. Apply reducer to the list and print the sum of the numList. 
+# This repository illustrates basic learnings on GEE
+In this session,I learned about client side functions vs server server side
+finctions in GEE.I did an assignment on this topic:
 
-var dict=ee.Dictionary({
-    "name":"Ashik",
-    "hobby":"reading",
-    "numList":[2,3,4,5,6,7,9]
-  })
-  var Dict=ee.List(dict.get("numList")).reduce(ee.Reducer.sum())
-  print(Dict)
-  
-  
-//   [4,5,7,8,,9] 
-// Convert the list into a GEE List object. Apply the map method and multiply the value of each element of the list by 4.
-  var list=ee.List([4,5,7,8,9])
-  var newList=list.map(function multipliply(num){
-  var num=ee.Number(num)
-  return num.multiply(4)
-  })
-  print(newList)
+*   [Assignment link](https://github.com/Ashik-Abdullah-Chowdhury/Basic-GEE-Practice-2/blob/main/GEE-P2.js)
+*   [GEE link](https://code.earthengine.google.com/8b70f0cc96b0d2dfbd9a3bae3850f868)
+
+We downloaded an administrative boundary of Bangladesh.Uploaded upazila boundary shape file of Bangladesh to GEE asset tab.Then filtered our upazilla marked it.
+*  [GEE link](https://code.earthengine.google.com/3558fd6747f32a3419270e8d45adf30a)
+*   [Image link](https://github.com/Ashik-Abdullah-Chowdhury/Basic-GEE-Practice-2/blob/main/Boalkhali%20upazilla.png)
+*  [Assignment link](https://github.com/Ashik-Abdullah-Chowdhury/Basic-GEE-Practice-2/blob/main/Boalkhali_upazilla.js)
+
