@@ -19,13 +19,14 @@ Some examples of applications are shown below:
 1.   **Downloading Administrative Boundary Data:** Obtained administrative boundary data of Bangladesh from a reliable source in google.
 2.   **Uploading Upazila Boundary Shapefile to GEE:** Uploaded Upazila boundary shapefiles to GEE's asset tab for further analysis.
 3.   **Filtering Upazila:** Filtered "Boalkhali" Upazila for further analysis.
-4.   **Perimeter,area of Upazila:**Printed the perimeter and area of Boalkhali.
-5.   **Visualize the filtered Upazila:**Showed Boalkhali upazila on the map.
+4.   **Perimeter,area of Upazila:** Printed the perimeter and area of Boalkhali.
+5.   **Visualize the filtered Upazila:** Showed Boalkhali upazila on the map.
 
 The result is:
 *  [GEE LINK](https://code.earthengine.google.com/3558fd6747f32a3419270e8d45adf30a)
 *   [IMAGE LINK](https://github.com/Ashik-Abdullah-Chowdhury/Basic-GEE-Practice-2/blob/main/Boalkhali%20upazilla.png)
 *  [CODE LINK](https://github.com/Ashik-Abdullah-Chowdhury/Basic-GEE-Practice-2/blob/main/Boalkhali_upazilla.js)
+
 
 
 
