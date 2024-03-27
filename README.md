@@ -9,7 +9,7 @@ When working with Google Earth Engine, it's essential to understand the distinct
 
 Some examples of applications are shown below:
 *   [CODE LINK](https://github.com/Ashik-Abdullah-Chowdhury/Basic-GEE-Practice-2/blob/main/GEE-P2.js)
-*   [GEE LINK](https://code.earthengine.google.com/8b70f0cc96b0d2dfbd9a3bae3850f868)
+*   [GEE LINK](https://code.earthengine.google.com/741b610a2bdd85011a6d281e6b4fbff2)
 *  [IMAGE LINK](https://github.com/Ashik-Abdullah-Chowdhury/Basic-GEE-Practice-2/blob/main/client_vs_server.png)
 
 # **Bangladesh Administrative Boundary Analysis with Google Earth Engine (GEE)**
@@ -26,7 +26,6 @@ The result is:
 *  [GEE LINK](https://code.earthengine.google.com/3558fd6747f32a3419270e8d45adf30a)
 *   [IMAGE LINK](https://github.com/Ashik-Abdullah-Chowdhury/Basic-GEE-Practice-2/blob/main/Boalkhali%20upazilla.png)
 *  [CODE LINK](https://github.com/Ashik-Abdullah-Chowdhury/Basic-GEE-Practice-2/blob/main/Boalkhali_upazilla.js)
-
 
 
 
