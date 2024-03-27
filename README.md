@@ -12,7 +12,7 @@ Some examples of applications are shown below:
 *   [GEE LINK](https://code.earthengine.google.com/8b70f0cc96b0d2dfbd9a3bae3850f868)
 *  [IMAGE LINK](https://github.com/Ashik-Abdullah-Chowdhury/Basic-GEE-Practice-2/blob/main/client_vs_server.png)
 
-## **Bangladesh Administrative Boundary Analysis with Google Earth Engine (GEE)**
+# **Bangladesh Administrative Boundary Analysis with Google Earth Engine (GEE)**
 ## This part of the repository provides a guidance and code example for downloading administrative boundary data of Bangladesh, uploading Upazila boundary shapefiles to Google Earth Engine (GEE), and filtering specific Upazilas for analysis.
 
 
@@ -26,7 +26,6 @@ The result is:
 *  [GEE LINK](https://code.earthengine.google.com/3558fd6747f32a3419270e8d45adf30a)
 *   [IMAGE LINK](https://github.com/Ashik-Abdullah-Chowdhury/Basic-GEE-Practice-2/blob/main/Boalkhali%20upazilla.png)
 *  [CODE LINK](https://github.com/Ashik-Abdullah-Chowdhury/Basic-GEE-Practice-2/blob/main/Boalkhali_upazilla.js)
-
 
 
 
